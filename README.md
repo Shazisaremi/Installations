@@ -10,6 +10,10 @@ From the start open the command prompt (cmd) and run `pip3 install <your package
 2. Install packages in the jupyter-notebook 
 
 ![](jup.png)
+
+3. Install packages using the anaconda environment
+
+
 We’re using Discussions as a place to connect with other members of our community. We hope that you:
 
 - Ask questions you’re wondering about.
