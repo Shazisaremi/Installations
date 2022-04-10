@@ -13,6 +13,7 @@ From the start open the command prompt (cmd) and run `pip3 install <your package
 
 3. Install packages using the anaconda environment
 
+![](ana.png)
 
 We’re using Discussions as a place to connect with other members of our community. We hope that you:
 
