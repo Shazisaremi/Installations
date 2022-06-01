@@ -36,7 +36,7 @@ Navigator is a desktop graphical user interface that allows you to launch applic
 Use Anaconda Navigator to launch an application. Then, create and run a simple Python program with **Jupyter Notebook**.
 
 ### Open Navigator
-Choose the instructions for your operating system:
+Choose the instructions for your operating system: 
 
 #### Windows:
 From the Start menu, click the Anaconda Navigator desktop app.
