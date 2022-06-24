@@ -15,7 +15,7 @@
 </p>
 
 ## Step 2
-###Create environment variable `PYSPARK_PYTHON`
+### Create environment variable `PYSPARK_PYTHON`
 
 <p align="center">
 <img src="assets/img_3.png">
