@@ -2,6 +2,7 @@
 
 ### Tutorial
 https://www.tutorialspoint.com/mongodb/mongodb_environment.htm
+https://www.youtube.com/watch?v=4crXgQZG4W8
 
 ### Download Link
 https://www.mongodb.com/try/download/community
